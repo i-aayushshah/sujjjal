@@ -12,6 +12,7 @@ const Contact = () => {
         name: "",
         email: "",
         message: "",
+        subject: "",
     });
     const [loading, setLoading] = useState(false);
     const [success, setSuccess] = useState(false);
@@ -29,9 +30,10 @@ const Contact = () => {
             name: values.name,
             email: values.email,
             message: values.message,
+            subject: values.subject,
         }).then((res) => {
             if (res.status === 200) {
-                setValues({ name: "", email: "", message: "" });
+                setValues({ name: "", email: "", message: "", subject:"" });
                 setLoading(false);
                 setSuccess(true);
                 toast.success(res.data.message)
@@ -67,6 +69,7 @@ const Contact = () => {
                     <form onSubmit={handleSubmit} className="flex flex-col gap-4 rounded-xl">
                         <input onChange={handleChange} required value={values.name} name="name" type="text" placeholder='Full Name *' className="outline-none bg-gray-100 dark:bg-grey-800 placeholder-gray-400 rounded-lg py-3 px-4" />
                         <input onChange={handleChange} required value={values.email} name="email" type="email" placeholder='Email *' className="outline-none bg-gray-100 dark:bg-grey-800 placeholder-gray-400 rounded-lg py-3 px-4" />
+                        <input onChange={handleChange} required value={values.subject} name="subject" type="text" placeholder='Subject *' className="outline-none bg-gray-100 dark:bg-grey-800 placeholder-gray-400 rounded-lg py-3 px-4" />
                         <textarea onChange={handleChange} required value={values.message} name="message" rows={4} placeholder='Message *' className="outline-none resize-none bg-gray-100 dark:bg-grey-800 placeholder-gray-400 rounded-lg py-3 px-4" />
                         <button disabled={loading} className="px-4 py-2 bg-violet-600 hover:bg-violet-700 transition-colors text-white rounded-lg disabled:cursor-not-allowed self-end">
                             {loading ? <span className="flex items-center gap-2">Say Hello <BiLoaderAlt className="animate-spin" /></span> : "Say Hello 👋"}
