@@ -3,9 +3,10 @@
     "name": "Sujal Shah",
     "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
     "titles": [
-      "Frontend Development",
-      "Backend Development",
-      "App Development"
+      "a Researcher",
+      "a AI enthuasiast",
+      "a Website developer",
+      "a python developer"
     ],
     "heroImage": "/profile.jpeg",
     "techStackImages": [
@@ -26,20 +27,21 @@
   "socials": [
     {
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/in/jhon-doe"
+      "link": "https://www.linkedin.com/in/shahsujal/"
     },
     {
       "icon": "FaGithub",
-      "link": "https://github.com/jhon-doe"
+      "link": "https://github.com/sujalshah0444"
     },
     {
       "icon": "FaInstagram",
-      "link": "https://www.instagram.com/jhondoe"
+      "link": "https://www.instagram.com/sujal._shah/"
     },
-    {
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/jhondoe"
-    }
+
+  {
+    "icon": "FaEnvelope",
+    "link": "mailto:sshah2@fandm.edu"
+  }
   ],
   "skills": [
     {

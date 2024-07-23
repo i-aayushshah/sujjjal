@@ -2,23 +2,23 @@ export default function Head() {
   return (
     <>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="I'm Jigar Sable, full-stack developer based in Pune, India. My journey in web development began during my first year of college." />
-      <meta name="keywords" content="jigar sable, portfolio, jigar, full stack dev, nextjs portfolio, portfolio design, portfolio website, personal portfolio" />
-      <meta property="og:site_name" content="Jigar Sable's Portfolio" />
-      <meta property="og:title" content="Portfolio | Jigar Sable - Full Stack Developer" />
+      <meta name="description" content="I'm Sujal Shah, a tech enthuasiast based in Pennsylvania, USA." />
+      <meta name="keywords" content="Sujal Shah, portfolio, Sujal, nextjs portfolio, portfolio design, portfolio website, personal portfolio" />
+      <meta property="og:site_name" content="Sujall Shah's Portfolio" />
+      <meta property="og:title" content="Portfolio | Sujal Shah" />
       <meta property="og:description"
-        content="I'm Jigar Sable, full-stack developer based in Pune, India. My journey in web development began during my first year of college." />
-      <meta property="og:url" content="https://jigarsable.vercel.app" />
-      <meta property="og:image" content="https://jigarsable.vercel.app/portfolio-fork.png" />
-      <link rel="canonical" href="https://jigarsable.vercel.app" />
-      <meta name="author" content="Jigar Sable" />
+        content="I'm Sujal Shah, a tech enthuasiast based in Pennsylvania, USA." />
+      <meta property="og:url" content="https://www.sujalshah.com.np/" />
+      <meta property="og:image" content="https://www.sujalshah.com.np/profile.jpeg" />
+      <link rel="canonical" href="https://www.sujalshah.com.np/" />
+      <meta name="author" content="Sujal Shah" />
       <meta name="language" content="English" />
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:site" content="https://jigarsable.vercel.app" />
-      <meta name="application-name" content="Portfolio | Jigar Sable - Full Stack Developer" />
-      <meta name="apple-mobile-web-app-title" content="Portfolio | Jigar Sable - Full Stack Developer" />
-      <link rel="icon" href="/favicon.ico" />
-      <title>Portfolio | Jigar Sable - Full Stack Developer</title>
+      <meta name="twitter:site" content="https://www.sujalshah.com.np/" />
+      <meta name="application-name" content="Portfolio | Sujal Shah" />
+      <meta name="apple-mobile-web-app-title" content="Portfolio | Sujal Shahr" />
+      <link rel="icon" href="/profile.jpeg" />
+      <title>Portfolio | Sujal Shah</title>
     </>
   )
 }
