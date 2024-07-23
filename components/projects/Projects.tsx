@@ -35,7 +35,7 @@ const Projects = ({ projectsData }: Props) => {
 
     return (
         <SectionWrapper id="projects" className="mx-4 md:mx-0 min-h-screen">
-            <h2 className="text-4xl text-center">Projects</h2>
+            <h2 className="text-4xl text-center">Certifications</h2>
 
             <div className="overflow-x-auto scroll-hide md:w-full max-w-screen-sm mx-auto mt-6 flex justify-between items-center gap-2 md:gap-3 bg-white dark:bg-grey-800 p-2 rounded-md">
                 {categories.map((c: string = "", i: number) => (

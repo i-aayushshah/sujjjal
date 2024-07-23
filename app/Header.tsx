@@ -21,7 +21,7 @@ export default function Header({ logo }: { logo: string }) {
     }, [])
 
 
-    const navs = ['home', 'about', 'projects', 'experience', 'contact']
+    const navs = ['home', 'about', 'certifications', 'experience', 'contact']
 
     return (
         <header className={`backdrop-filter backdrop-blur-lg ${scroll ? 'border-b bg-white bg-opacity-40' : 'border-b-0'} dark:bg-grey-900 dark:bg-opacity-40 border-gray-200 dark:border-b-0 z-30 min-w-full flex flex-col fixed`}>

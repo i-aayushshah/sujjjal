@@ -21,7 +21,7 @@
     "title": "AI/ML Enthuasiast",
     "about": "Hello there! I'm Sujal. I love working with computers especially designing websites, working with 3D models, and creating coding-based projects. Besides that, I enjoy traveling, exploring, and learning about new places and things. I'm also a Photographer and a Drone operator. I believe everything has a story to share, and I try to capture it through the lens.",
     "callUrl": "",
-    "resumeUrl": "file:///E:/Downloads/Sujal_Shah_Resume2%20(1).pdf"
+    "resumeUrl": "/Resume.pdf"
   },
   "socials": [
     {
@@ -150,36 +150,47 @@
   ],
   "projects": [
     {
-      "name": "Project Title",
-      "techstack": "HTML5, CSS3, JavaScript, jQuery",
-      "category": "MERN Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
-      "links": {
-        "code": "https://meet.google.com/phe-hgoa-fxv",
-        "video": "",
-        "visit": ""
-      }
-    },
-    {
-      "name": "Project Title",
-      "techstack": "Flutter, Dart, Firebase",
-      "category": "Flutter",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "name": "CS50 Certificate | Harvard",
+      "techstack": "Python (Programming Language) · Computer Programming · Algorithm Design",
+      "category": "Certification",
+      "image": "/CS50.png",
       "links": {
         "code": "",
         "video": "",
-        "visit": ""
+        "visit": "https://certificates.cs50.io/72ac6e55-8200-46eb-a88b-e05189f29209.pdf?size=letter"
       }
     },
     {
-      "name": "Project Title",
-      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
-      "category": "LAMP Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "name": "Foundations of Cybersecurity | Google",
+      "techstack": "Cybersecurity",
+      "category": "Certification",
+      "image": "/security.png",
       "links": {
         "code": "",
         "video": "",
-        "visit": ""
+        "visit": "https://www.coursera.org/account/accomplishments/verify/6D98GQHYNN4X"
+      }
+    },
+    {
+      "name": " A recipient of the Generation Google Scholarship for 2024-25!",
+      "techstack": "Academic Achievement",
+      "category": "Scholarships",
+      "image": "/google.jpeg",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://www.linkedin.com/feed/update/urn:li:activity:7217947020848738304/"
+      }
+    },
+    {
+      "name": "Physical Science Responsible Conduct of Research | CITI Program",
+      "techstack": "Research Skills",
+      "category": "Certification",
+      "image": "/citi.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": "https://www.citiprogram.org/verify/?wa2ea75de-a623-4291-8175-5640a48974f8-60647595"
       }
     }
   ],

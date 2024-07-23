@@ -51,7 +51,7 @@ const Project = ({ name, image, category, techstack, links }: project) => {
 
             <div className="my-2 flex flex-col gap-3">
                 <h3 className="text-xl font-medium">{name}</h3>
-                <p className="text-sm text-gray-400"> <span className="font-medium">Tech Stack:</span> {techstack}</p>
+                <p className="text-sm text-gray-400"> <span className="font-medium">Skills:</span> {techstack}</p>
             </div>
 
         </motion.div>
