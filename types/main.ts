@@ -4,7 +4,7 @@ type skill = {
     category: string
 }
 
-type project = {
+type certification = {
     name: string,
     image: string,
     techstack: string,
@@ -64,11 +64,11 @@ type data = {
     main: main,
     about: about,
     skills: skill[],
-    projects: project[],
+    certifications: certification[],
     experiences: experience[],
     educations: education[],
     researches: research[],
     socials: social[]
 }
 
-export type { data, main, about, skill, project, experience, education, social, research };
+export type { data, main, about, skill, certification, experience, education, social, research };

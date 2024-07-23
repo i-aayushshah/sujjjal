@@ -3,7 +3,7 @@ import { data } from "@/types/main";
 import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Skills from "@/components/skills/Skills";
-import Projects from "@/components/projects/Projects";
+import Certifications from "@/components/certifications/Certifications";
 import Socials from "@/components/Socials";
 import Experiences from "@/components/experiences/Experiences";
 import Contact from "@/components/Contact";
@@ -25,7 +25,7 @@ const HomePage = ({ data }: Props) => {
             <Skills skillData={data.skills} />
 
             <Experiences experienceData={data.experiences} educationData={data.educations} researchData={data.researches}/>
-            <Projects projectsData={data.projects} />
+            <Certifications certificationsData={data.certifications} />
             <Contact />
 
             <Footer socials={data.socials} name={data.main.name} />

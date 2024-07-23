@@ -1,4 +1,4 @@
-import { project } from "@/types/main"
+import { certification } from "@/types/main"
 import Image from "next/image"
 import Link from "next/link"
 import { FaGithub, FaVideo } from "react-icons/fa"
@@ -11,7 +11,7 @@ const cardVariants = {
     visible: { y: 0, opacity: 1, transition: { duration: 0.6, ease: 'easeInOut' } }
 };
 
-const Project = ({ name, image, category, techstack, links }: project) => {
+const Certification = ({ name, image, category, techstack, links }: certification) => {
 
     const [ref, inView] = useInView({
         threshold: 0.2,
@@ -58,4 +58,4 @@ const Project = ({ name, image, category, techstack, links }: project) => {
     )
 }
 
-export default Project
+export default Certification
