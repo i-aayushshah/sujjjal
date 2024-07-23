@@ -1,0 +1,283 @@
+{
+  "main": {
+    "name": "Sujal Shah",
+    "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "titles": [
+      "Frontend Development",
+      "Backend Development",
+      "App Development"
+    ],
+    "heroImage": "/profile.jpeg",
+    "techStackImages": [
+      "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
+      "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    ]
+  },
+  "about": {
+    "aboutImage": "/profile2.jpeg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "AI/ML Enthuasiast",
+    "about": "Hello there! I'm Sujal. I love working with computers especially designing websites, working with 3D models, and creating coding-based projects. Besides that, I enjoy traveling, exploring, and learning about new places and things. I'm also a Photographer and a Drone operator. I believe everything has a story to share, and I try to capture it through the lens.",
+    "callUrl": "",
+    "resumeUrl": "file:///E:/Downloads/Sujal_Shah_Resume2%20(1).pdf"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/jhon-doe"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/jhon-doe"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/jhondoe"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/jhondoe"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "Java",
+      "image": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "C",
+      "image": "https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "HTML",
+      "image": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "CSS",
+      "image": "https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Programming"
+    },
+    {
+      "name": "C++",
+      "image": "https://img.icons8.com/?size=100&id=40669&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "Django",
+      "image": "https://img.icons8.com/?size=100&id=XPdRFanRZtNK&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "Flask",
+      "image": "https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "Next.js",
+      "image": "https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "Tailwindcss",
+      "image": "https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000",
+      "category": "Programming"
+    },
+    {
+      "name": "Cloudfare",
+      "image": "https://img.icons8.com/?size=100&id=fUGx53gD9Jof&format=png&color=000000",
+      "category": "Tools"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Linux",
+      "image": "https://img.icons8.com/?size=100&id=17842&format=png&color=000000",
+      "category": "Tools"
+    }
+    ,
+    {
+      "name": "Vercel",
+      "image": "/vercel.svg",
+      "category": "Tools"
+    }
+    ,
+    {
+      "name": "Photoshop",
+      "image": "https://img.icons8.com/?size=100&id=13677&format=png&color=000000",
+      "category": "Graphics"
+    }
+    ,
+    {
+      "name": "Premiere Pro",
+      "image": "https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000",
+      "category": "Graphics"
+    }
+    ,
+    {
+      "name": "Adobe Indesign",
+      "image": "https://img.icons8.com/?size=100&id=13675&format=png&color=000000",
+      "category": "Graphics"
+    }
+    ,
+    {
+      "name": "Adobe Illustrator",
+      "image": "https://img.icons8.com/?size=100&id=13631&format=png&color=000000",
+      "category": "Graphics"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Title",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery",
+      "category": "MERN Stack",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "https://meet.google.com/phe-hgoa-fxv",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Project Title",
+      "techstack": "Flutter, Dart, Firebase",
+      "category": "Flutter",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Project Title",
+      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "LAMP Stack",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "St. Xavier’s College | High School",
+      "degree": "NEB Science",
+      "duration": "2020 - 2022",
+      "desc": [
+        "GPA: 3.81/4.00 with Advanced Coursework in Physics, Mathematics, Biology, Chemistry, English and Nepali"
+      ]
+    },
+    {
+      "institute": "Franklin & Marshall College",
+      "degree": "Bachelor of Arts in Computer Science",
+      "duration": "2023 - 2027",
+      "desc": [
+        "Cumulative GPA 4.0/4.0",
+        "Relevant Coursework: Data Structures and Algorithms, Multivariable Calculus (Calculus III), Strategies for Organizing, Progress and Its Critics, Physics, Accounting for Decision Making, Integration (Calculus II), Economics",
+        "Honors and Awards: Generation Google Scholarship recipient 2024-25, Honor’s List (Fall 2023, Spring 2024), Summer Hackman Scholar"
+      ]
+    }
+  ],
+  "researches": [
+    {
+      "institute": "College-level Astronomy Research Project",
+      "degree": "Nanostars",
+      "duration": "September 2023 – Present",
+      "desc": [
+        "Enhance research and critical analysis competencies through comprehensive review and evaluation of original graphs and data to recognize if the given signal is a pulsar; attended and presented at Nationwide Astronomy Teleconferences"
+      ]
+    },
+    {
+      "institute": "College-level Astronomy Research Project",
+      "degree": "Nanostars",
+      "duration": "September 2023 – Present",
+      "desc": [
+        "Enhance research and critical analysis competencies through comprehensive review and evaluation of original graphs and data to recognize if the given signal is a pulsar; attended and presented at Nationwide Astronomy Teleconferences"
+      ]
+    },
+    {
+      "institute": "Uunchai Summer program",
+      "degree": "Organizer and Mentor",
+      "duration": "March 2024 - present",
+      "desc": [
+        "Leading an initiative by coordinating with undergraduates from different universities to run a five-week mentorship program. Aimed at middle and high school students in Nepal, the program enhances educational accessibility and practical learning in fields such as Computer Science, Mathematics, Economics, Art, and Psychology, with a focus on empowering underprivileged and underrepresented students in the rural community"
+      ]
+    }
+  ],
+
+
+  "experiences": [
+
+    {
+      "company": "Nepal Red Cross Society, Kathmandu, Nepal",
+      "position": "Data Entry Operator",
+      "duration": "June 2022 – November 2022",
+      "desc": [
+        "Demonstrated detail-orientation, organization and communication competencies while categorizing, organizing and using data analyzing software to analyze blood grouping data"
+      ]
+    },
+    {
+      "company": "DocsKool, Kathmandu, Nepal ",
+      "position": "Wordpress Website Developer",
+      "duration": "April 2023 – July 2023",
+      "desc": [
+        "Built both the frontend and backend of the organization’s website using WordPress, while managing and updating content and enhanced SEO to improve online presence and reach",
+        "Visit: https://docskool.org.np/"
+      ]
+    }
+    ,
+    {
+      "company": "Mathematics Initiatives in Nepal",
+      "position": "Graphics Designer",
+      "duration": "April 2023 - August 2023",
+      "desc": [
+        "Designed posters, marketing and social media campaigns to enhance the social media presence and national visibility of this national-levelorganization run by high school students and graduates for the purpose of making mathematics accessible to youth irrespective of geography and socioeconomic factors"
+      ]
+    }
+    ,
+    {
+      "company": "Franklin & Marshall College, Lancaster, PA",
+      "position": "IT Support & Special Event Specialist",
+      "duration": "August 2023 – February 2024",
+      "desc": [
+        "Serve as the first point of contact for students, faculty and staff calling into or visiting the campus helpdesk, troubleshooting and resolving technical and device issues in a prompt, courteous and professional manner",
+        "Provide technical AV and device support for large-scale lectures and special events"
+      ]
+    },
+    {
+      "company": "Mathematics Department, Franklin & Marshall College",
+      "position": "Research Assistant",
+      "duration": "February 2024 – Present",
+      "desc": [
+        "Collaborating with Prof. Tom Hull on a project combining Computer Science and Mathematics. Focusing on computational origami algorithms, analyzing traditional origami patterns to develop and implement algorithms that translate these designs to computational code; using softwares like Mathematica, Blender",
+        "Aiming to bridge the gap between theoretical mathematics and practical applications by creating innovative computational models."
+      ]
+    }
+
+  ]
+}
